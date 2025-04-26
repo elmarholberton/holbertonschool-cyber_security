@@ -1,1 +1,1 @@
-udp and ip.dst == 10.42.180.16
+udp and ip.dst == 10.42.180.162 and udp.dstport >= 1
