@@ -1,0 +1,1 @@
+tcp.flags.syn == 1 and tcp.flags.ack == 0 and ip.dst == 10.42.180.162 and tcp.window_size > 1024
