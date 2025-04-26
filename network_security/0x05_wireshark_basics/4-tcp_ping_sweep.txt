@@ -1,0 +1,1 @@
+(ip.dst == 10.42.180.162) and (tcp.flags.syn == 1 or tcp.flags.ack == 1)
